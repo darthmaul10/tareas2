@@ -65,7 +65,9 @@ console.log(round(e, 3))
 
 //persona1.caminar(15)
 //console.log(persona1)
+
 //console.log(persona2)
+
 
 
 //Intentar calcular la edad a partir de la fecha de nacimiento
